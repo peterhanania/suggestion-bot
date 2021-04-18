@@ -1,0 +1,30 @@
+{
+  "name": "suggestion-bot",
+  "version": "1.0.0",
+  "description": "A simple discord.js suggestion bot that doesn't require a database.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterhanania/suggestion-bot.git"
+  },
+  "keywords": [
+    "suggestion-bot",
+    "discord",
+    "discord-bot"
+  ],
+  "author": "Peter Hanania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterhanania/suggestion-bot/issues"
+  },
+  "homepage": "https://github.com/peterhanania/suggestion-bot#readme"
+}
