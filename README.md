@@ -49,7 +49,6 @@ Set up all your information in the *config.json* File as such
   "developers": ["DEVELOPERS_IDS"],
   "bot_name":"YOUR_BOT_NAME",
   "suggestion_channel_id":"SUGGESTION_CHANNEL_ID"
-
 }
 ```
  > You can change the emojis in `emojis.js` and colors in `colors.js`
